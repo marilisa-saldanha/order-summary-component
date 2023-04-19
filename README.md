@@ -4,8 +4,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-using-html-5-css-and-flexbox-vO-uXoFMtq)
+- [Live Site URL](https://marilisa-saldanha.github.io/order-summary-component/)
 
 ### Built with
 
