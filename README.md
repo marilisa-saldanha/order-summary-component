@@ -12,7 +12,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - HTML5
 - CSS
 - Flexbox
-- Mobile-first workflow
 
 ## Author
 
